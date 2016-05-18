@@ -1,0 +1,3 @@
+Calculates working days in Germany between two points in time. Adjustable are
+the different holidays in its federal states, whether Saturday work is given
+etc. and the workload per week.
